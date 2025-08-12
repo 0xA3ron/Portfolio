@@ -55,7 +55,7 @@ Over the past several years, I’ve worked with both public and private communit
 - **LinkedIn:** https://www.linkedin.com/in/a3ron-undefined-6554a62a7/
 
 
-(Change to code for a supprise)
+(Change to code for a surprise)
 
 
 ⣴⡿⠶⠀⠀⠀⣦⣀⣴⠀⠀⠀⠀
