@@ -1,57 +1,48 @@
-# Aaron  
-**Community Management • Operations Leadership • Project Management • Emergency Services**
-
----
+# Aaron
 
 ## Professional Overview
-Community management and operations leader with proven experience overseeing large-scale online communities, guiding high-performing teams, and delivering results in high-pressure environments.  
-Combines structured project management skills with the adaptability and decision-making of an emergency services professional.  
-Certified **Firefighter and Rescue Technician**, trained in **Emergency Medical Response** and **Crisis/Psychiatric Intervention**.
+I specialize in **Community Management**, **Moderation Leadership**, and **Project Coordination**, with a proven history of managing large-scale online spaces and guiding teams to operate efficiently and effectively.  
+Over the past several years, I’ve worked with both public and private communities — some with hundreds of thousands of members — where my role has been to maintain order, build engagement, and keep operations running smoothly behind the scenes.  
+
+I value clear communication, fair decision-making, and systems that are built to last.
 
 ---
 
-## Areas of Expertise
+## Key Skills
 - Community Oversight & Engagement Strategy  
-- Moderation Leadership & Policy Enforcement  
-- Project Management & Process Improvement  
-- Crisis Management & Conflict Resolution  
-- Operational Planning & Resource Coordination  
-- Training, Mentorship & Team Development  
-- High-Pressure Decision Making  
+- Staff Management & Mentorship  
+- Moderation Policy & Enforcement  
+- Project Planning & Process Implementation  
+- Conflict Resolution & Issue Escalation  
+- Operational Workflow Optimization  
 
 ---
 
-## Selected Achievements
-- **Senior Community Manager** for *r/medical*, overseeing **148,000+ members** and **1.9M+ monthly visits**, implementing workflows that reduced report resolution time and improved moderator efficiency.  
-- Directed **moderation teams** in high-traffic communities, establishing structured escalation procedures and improving incident response.  
-- Managed **featured roleplay community operations**, including staff scheduling, event planning, and player support.  
-- Led **emergency response operations** as a Firefighter and Rescue Technician, coordinating with multi-agency teams under critical time constraints.  
-- Designed and executed **community safety protocols** and **operational plans** in both digital and physical environments.
-
----
-
-## Professional Background
+## Experience
 
 **Senior Community Manager — r/medical**  
-- Lead a diverse team of moderators to ensure accuracy, compliance, and community safety.  
-- Coordinate content review, guideline enforcement, and user support across a large-scale medical discussion platform.  
+*148,000+ members | 1.9M+ monthly visits*  
+- Lead and coordinate a multi-member moderator team to ensure professional standards and accurate, respectful discussions.  
+- Handle reports, enforce guidelines, and supervise team operations to maintain community trust.  
+- Designed moderation workflows that reduced report resolution time and increased efficiency.
 
 **Community Manager — Featured Roleplay Community**  
-- Oversee daily operations, enforce policies, and maintain fair, inclusive gameplay environments.  
-- Coordinate special events, staff management, and player engagement strategies.  
+- Managed day-to-day operations, staff coordination, and player support for a server recognized by the game’s creators.  
+- Oversaw event planning, policy enforcement, and conflict resolution.  
+- Maintained stability while fostering a fair, inclusive, and enjoyable environment.
 
 **Moderation Lead**  
-- Directed online moderation teams, trained new moderators, and implemented efficiency-focused moderation processes.  
+- Directed high-traffic moderation teams, providing training, leadership, and clear enforcement protocols.  
+- Introduced structured escalation systems to improve response time and reduce repeat issues.
 
 ---
 
-## Volunteer & Service Work
-- **Firefighter & Rescue Technician**, certified in Emergency Medical Response.  
-- Volunteer with the National Food Bank, supporting large-scale logistics and distribution efforts.  
+## Approach to Work
+I approach every community as a living ecosystem — one that needs clear rules, strong leadership, and an environment where members feel valued. My focus is on building spaces where people want to participate, and ensuring the infrastructure behind them supports long-term success.
 
 ---
 
-## Professional Approach
-My leadership approach blends **discipline from emergency services** with **strategic thinking from project management**.  
-I focus on creating clear systems, building trust within teams, and delivering consistent results in fast-paced, complex environments.
-
+## Contact
+- **Email:** your@email.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- **Portfolio/GitHub:** [github.com/yourusername](#)
