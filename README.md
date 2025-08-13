@@ -12,7 +12,7 @@ Over the past several years, I’ve worked with both public and private communit
 - Project Planning & Process Implementation  
 - Conflict Resolution & Issue Escalation  
 - Operational Workflow Optimization  
-- Understandings of Development
+- Fundamental understandings of Programming (Lua, Python & JS) and overall Development.
 
 ⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
 
