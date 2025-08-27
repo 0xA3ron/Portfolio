@@ -2,7 +2,7 @@
 
 ## Professional Overview
 I specialize in **Community Management**, **Moderation Leadership** and **Project Coordination**.
-Over the past several years, I’ve worked with both public and private communities, some with hundreds of thousands of members, where my role has been to overview moderation, build engagement, develop new projects and keep operations running smoothly.  
+Over the past several years, I’ve worked with both public and private communities. Some with hundreds of thousands of members where my role has been to overview moderation, build engagement, develop new projects and keep operations running smoothly.  
 
 ⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
 ## My Skills
