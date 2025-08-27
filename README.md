@@ -20,9 +20,8 @@ Over the past several years, I’ve worked with both public and private communit
 
 **Senior Community Manager — r/medical**  
 *148,000+ members | 1.9M+ monthly visits*  
-- Lead and coordinate a multi-member moderator team to ensure professional standards and accurate, respectful discussions.  
+- Lead and coordinate a moderatorion team to ensure professional standards and accurate, respectful discussions.  
 - Handle reports, enforce guidelines, and supervise team operations to maintain community trust.  
-- Designed moderation workflows that reduced report resolution time and increased efficiency — the digital equivalent of keeping the litter box clean before anyone notices.
 
 **Community Manager — Featured Roleplay Community**  
 - Managed day-to-day operations, staff coordination, and player support for a server recognized by the game’s creators.  
@@ -31,7 +30,7 @@ Over the past several years, I’ve worked with both public and private communit
 
 **Moderation Lead — Other Communities**
 - Oversee moderation teams, providing training, leadership, and clear enforcement of policy.  
-- Client & Customer Support with diverse motives and professionalism.
+- Client & Customer Support.
 
 ⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
 
@@ -41,7 +40,7 @@ Over the past several years, I’ve worked with both public and private communit
 - Science student @ Scientific College.
 - Volunteer Firefighter, EMS and Rescue Technician.
 
-**About self**
+**About Me**
 - Physics and Medicine Nerd.
 - 18 yr old.
 
