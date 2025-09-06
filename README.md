@@ -37,7 +37,7 @@ Over the past several years, I’ve worked with both public and private communit
 ## Personal Information & Facts
 
 **Current Job Occupation**
-- Science student @ Scientific College.
+- STEM College Student.
 - Volunteer Firefighter, EMS and Rescue Technician.
 
 **About Me**
