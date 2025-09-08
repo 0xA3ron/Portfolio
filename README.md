@@ -9,7 +9,7 @@ Over the past few years, I’ve worked with several communities. Some big and so
 - Community Oversight & Engagement   
 - Staff Management & Mentorship  
 - Moderation Policy & Enforcement  
-- Project Planning & Process Implementation  
+- Project Planning & Implementation  
 - Conflict Resolution & Issue Escalation  
 - Operational Workflow Optimization  
 - Fundamental understandings of Programming (Lua, Python & JS) and overall Development.
