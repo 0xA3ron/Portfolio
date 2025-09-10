@@ -5,7 +5,7 @@ I specialize in **Community Management**, **Moderation Leadership** and **Projec
 Over the past few years, I’ve worked with several communities. Some big and some small where my role has been to overview moderation, build engagement, develop new projects and keep operations running smoothly.  
 
 ⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝⸝
-## My Skills
+## My Key Skills
 - Community Oversight & Engagement   
 - Staff Management & Mentorship  
 - Moderation Policy & Enforcement  
